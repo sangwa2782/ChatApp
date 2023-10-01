@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922188770535",
+    "project_id": "chatapp-backend-10055",
+    "storage_bucket": "chatapp-backend-10055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922188770535:android:e54045adab6095bb840642",
+        "android_client_info": {
+          "package_name": "com.ajayam.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCWGQ251TBZphNku7HyHZjp-G_M51MYlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
